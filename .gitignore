@@ -1,0 +1,15 @@
+bin/
+.*.jar
+**/xtend-gen
+**/src-gen
+**/build
+.DS_Store
+target
+.classpath
+.settings
+src-gen/
+xtend-gen/
+plugin.xml_gen
+.project
+**/contents/
+**/website/
